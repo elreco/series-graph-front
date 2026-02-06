@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DBMDZ9DDA7.com.elreco.seriesgraph",
+        "paths": [
+          "/",
+          "/app",
+          "/show/*",
+          "/movie/*",
+          "/user/*"
+        ]
+      }
+    ]
+  }
+}
