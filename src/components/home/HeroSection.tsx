@@ -70,7 +70,7 @@ export default function HeroSection() {
                 className="flex h-auto w-full items-center gap-2 overflow-visible bg-[#00e5ff] px-6 py-3.5 font-semibold leading-none text-black hover:bg-[#00e5ff]/90 hover:text-white sm:w-auto"
               >
                 <a 
-                  href="https://apps.apple.com/us/app/series-graph/id6748727502" 
+                  href="https://apps.apple.com/app/series-graph-movies-series/id6748727502" 
                   target="_blank" 
                   rel="noopener noreferrer"
                 >

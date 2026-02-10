@@ -16,13 +16,13 @@ export default function Support() {
           </div>
           <div className="text-center">
             <h1 className="text-3xl font-bold sm:text-4xl">Support</h1>
-            <p className="mt-2 text-sm text-muted-foreground">Series Graph</p>
+            <p className="mt-2 text-sm text-muted-foreground">Watch Peak</p>
           </div>
         </CardHeader>
         <CardContent className="space-y-6 px-6 pb-8 sm:px-8">
           <div className="text-center">
             <p className="text-lg leading-relaxed text-muted-foreground">
-              Need help with Series Graph?
+              Need help with Watch Peak?
             </p>
             <p className="mt-2 leading-relaxed text-muted-foreground">
               We're here to help! Feel free to contact us for any questions or assistance.

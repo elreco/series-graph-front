@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
           </div>
           <div className="text-center">
             <h1 className="text-3xl font-bold sm:text-4xl">Privacy Policy</h1>
-            <p className="mt-2 text-sm text-muted-foreground">Series Graph</p>
+            <p className="mt-2 text-sm text-muted-foreground">Watch Peak</p>
             <p className="text-sm text-muted-foreground">Last updated: November 10, 2024</p>
           </div>
         </CardHeader>
@@ -23,7 +23,7 @@ export default function PrivacyPolicy() {
           <section className="space-y-3">
             <h2 className="text-2xl font-semibold">Introduction</h2>
             <p className="leading-relaxed text-muted-foreground">
-              Series Graph ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+              Watch Peak ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
             </p>
           </section>
           <Separator />
@@ -82,7 +82,7 @@ export default function PrivacyPolicy() {
           <Separator />
           <section className="space-y-4">
             <h2 className="text-2xl font-semibold">Third-Party Services</h2>
-            <p className="text-muted-foreground">Series Graph integrates with the following third-party services:</p>
+            <p className="text-muted-foreground">Watch Peak integrates with the following third-party services:</p>
             <div className="space-y-4">
               <div className="space-y-2">
                 <h3 className="text-lg font-medium">Supabase</h3>
@@ -140,7 +140,7 @@ export default function PrivacyPolicy() {
           <section className="space-y-3">
             <h2 className="text-2xl font-semibold">Children's Privacy</h2>
             <p className="leading-relaxed text-muted-foreground">
-              Series Graph is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately.
+              Watch Peak is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately.
             </p>
           </section>
           <Separator />
@@ -239,7 +239,7 @@ export default function PrivacyPolicy() {
           <section className="space-y-3">
             <h2 className="text-2xl font-semibold">Consent</h2>
             <p className="leading-relaxed text-muted-foreground">
-              By using Series Graph, you consent to our Privacy Policy and agree to its terms.
+              By using Watch Peak, you consent to our Privacy Policy and agree to its terms.
             </p>
           </section>
           <Separator />

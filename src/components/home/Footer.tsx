@@ -9,10 +9,10 @@ export default function Footer() {
             <div className="mb-4 flex items-center gap-3">
               <img 
                 src="https://jojdwiugelqhcajbccxn.supabase.co/storage/v1/object/public/images/1763155339627-75000060-f001-47f8-8b29-4f83ca1ef6a4-0.png" 
-                alt="Series Graph" 
+                alt="Watch Peak" 
                 className="h-8 w-8"
               />
-              <span className="text-lg font-semibold text-white">Series Graph</span>
+              <span className="text-lg font-semibold text-white">Watch Peak</span>
             </div>
             <p className="text-sm text-gray-400">
               The ultimate companion for TV series enthusiasts
@@ -48,7 +48,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 border-t border-white/5 pt-8 text-center text-sm text-gray-500">
-          <p>&copy; {currentYear} Series Graph. All rights reserved.</p>
+          <p>&copy; {currentYear} Watch Peak. All rights reserved.</p>
         </div>
       </div>
     </footer>

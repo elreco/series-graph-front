@@ -12,11 +12,11 @@ export default function Header() {
         >
           <img 
             src="https://jojdwiugelqhcajbccxn.supabase.co/storage/v1/object/public/images/1763155339627-75000060-f001-47f8-8b29-4f83ca1ef6a4-0.png" 
-            alt="Series Graph" 
+            alt="Watch Peak" 
             className="h-8 w-8"
           />
           <span className="font-display text-lg font-semibold text-white sm:text-xl">
-            Series Graph
+            Watch Peak
           </span>
         </motion.div>
         {/* Product Hunt Badge */}
@@ -33,7 +33,7 @@ export default function Header() {
           >
             <img 
               src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1045074&theme=dark&period=daily&t=1765171519260" 
-              alt="Series Graph - See every series & movies true rating at a glance | Product Hunt" 
+              alt="Watch Peak - See every series & movies true rating at a glance | Product Hunt" 
               className="h-[44px] w-[200px] sm:h-[54px] sm:w-[250px]"
               width="250" 
               height="54" 

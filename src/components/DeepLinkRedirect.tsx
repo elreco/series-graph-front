@@ -42,12 +42,12 @@ export default function DeepLinkRedirect() {
         <div className="flex items-center gap-3">
           <img
             src="https://jojdwiugelqhcajbccxn.supabase.co/storage/v1/object/public/images/1763155339627-75000060-f001-47f8-8b29-4f83ca1ef6a4-0.png"
-            alt="Series Graph"
+            alt="Watch Peak"
             className="h-16 w-16 animate-pulse"
           />
         </div>
         <div className="space-y-2">
-          <h1 className="text-2xl font-bold text-white">Opening Series Graph...</h1>
+          <h1 className="text-2xl font-bold text-white">Opening Watch Peak...</h1>
           <p className="text-gray-400">
             If the app doesn't open, you'll be redirected automatically.
           </p>
